@@ -1,3 +1,5 @@
+![Picture](https://user-images.githubusercontent.com/116437022/206852812-255e5a49-2d3e-4401-8d8a-972cced041b7.jpg)
+
 # Alexander Kurtasov
 
 ## Contacts
