@@ -125,3 +125,8 @@ table {
   max-width: 1440px;
   margin: 0 auto;
 }
+
+.logo {
+  width: 75px;
+  height: 27.5px;
+}
