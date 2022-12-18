@@ -1,0 +1,137 @@
+html {
+  scroll-behavior: smooth; 
+}
+
+body {
+  margin: 0 auto;
+}
+
+.top {
+  background: #e0cc12;
+  padding: 80px 300px 0;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.top1 {
+  background: black;
+  padding: 60px 60px 60px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 4px 20px rgba(108, 4, 245, 0.8);
+}
+
+.bottom {
+  background: black;
+  padding: 0 300px 80px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.bottom1 {
+  background: white;
+  box-shadow: 0px 4px 20px rgba(108, 4, 245, 0.8);
+  display: flex;
+}
+
+h1 {
+  font-family: Gill Sans, sans-serif;
+  text-transform: uppercase;
+  font-size: 35px;
+  color:white;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: Gill Sans, sans-serif;
+  color: white;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.aboutme {
+  font-family: Gill Sans, sans-serif;
+  color: white;
+  margin-top: 150px;
+  width: 300px;
+  text-justify: auto;
+}
+
+table {
+  padding: 50px 0;
+  display: flex;
+  margin-left: 80px;
+  margin-right: 80px;
+  justify-content: space-between;
+}
+
+.chapter { 
+  font-family: Gill Sans, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: black;
+}
+
+.text {
+  font-family: Gill Sans, sans-serif;
+  text-transform: none;
+  font-size: 16px;
+  color: black;
+  line-height: 1.5;
+}
+
+.header {
+  background: white;
+  justify-content: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.header-list {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  list-style: none;
+}
+
+.header-element{
+  box-sizing: border-box;
+  padding: 0 20px;
+  border: 0;
+  text-decoration: none;
+  color: black;
+  font-family: Gill Sans, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.footer {
+  background: white;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.footer-info {
+  padding: 10px 50px;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 75px;
+  height: 27.5px;
+}
+
+.logogit {
+  width: 50px;
+  height: 50px;
+}
